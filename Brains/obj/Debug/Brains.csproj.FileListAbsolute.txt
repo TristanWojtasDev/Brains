@@ -1,0 +1,10 @@
+C:\Users\15862\source\repos\Brains\Brains\bin\Debug\Brains.exe.config
+C:\Users\15862\source\repos\Brains\Brains\bin\Debug\Brains.exe
+C:\Users\15862\source\repos\Brains\Brains\bin\Debug\Brains.pdb
+C:\Users\15862\source\repos\Brains\Brains\obj\Debug\Brains.csprojAssemblyReference.cache
+C:\Users\15862\source\repos\Brains\Brains\obj\Debug\Brains.Login.resources
+C:\Users\15862\source\repos\Brains\Brains\obj\Debug\Brains.Oversight.resources
+C:\Users\15862\source\repos\Brains\Brains\obj\Debug\Brains.Properties.Resources.resources
+C:\Users\15862\source\repos\Brains\Brains\obj\Debug\Brains.csproj.GenerateResource.cache
+C:\Users\15862\source\repos\Brains\Brains\obj\Debug\Brains.exe
+C:\Users\15862\source\repos\Brains\Brains\obj\Debug\Brains.pdb
